@@ -1,2 +1,2 @@
-# C-Qt-
+# CPP-Qt-
 Easy programs write in CPP using qt library
